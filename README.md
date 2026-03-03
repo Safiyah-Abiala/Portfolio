@@ -23,7 +23,7 @@ Using SQL, Excel, and Power BI, I have successfully executed projects that solve
 
 Analyzed 6 months of retail data to identify a 104% revenue growth trend. Optimized store operations by identifying peak transaction hours and top revenue-generating products.
 
-![image](1 Screenshot 2026-02-21 091627.png)
+![image](Screenshot 2026-02-21 091627.png)
 
 
 
@@ -32,7 +32,7 @@ Analyzed 6 months of retail data to identify a 104% revenue growth trend. Optimi
 
 Conducted Exploratory Data Analysis (EDA) on restaurant menu and order data. Used advanced SQL aggregations and time-series extraction to identify high-value customer segments and recommend menu optimization strategies.
 
-![image](2 Restaurant Orders- SQL.png)
+![image](Restaurant Orders- SQL.png)
 
 
 #### 🚀 [Space Mission Global Trends](link-to-repo)
@@ -40,7 +40,7 @@ Conducted Exploratory Data Analysis (EDA) on restaurant menu and order data. Use
 
 Designed an interactive dashboard tracking global space exploration from 1957 to the present. Focused on mission success rates, cost-effectiveness of launch vehicles, and the evolution of the commercial space race.
 
-![image](3 Screenshot 2026-02-21 080609.png)
+![image](Screenshot 2026-02-21 080609.png)
 
 
 ## CONTACT DETAILS
