@@ -1,5 +1,5 @@
 <!--Section 1: Introduce your self-->
-## ABOUT ME
+# ABOUT ME
 
 Hello! I'm Abiala Safiyah, an aspiring Data Analyst driven by the challenge of turning raw, fragmented data into clear business strategies. With a background in analyzing retail, hospitality, and global industry datasets, I specialize in identifying patterns that help businesses grow and operate more efficiently.
 
