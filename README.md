@@ -28,7 +28,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 #### 🍽 [Restaurant Orders Project](link-to-repo)
 **Tool:** SQL
 Conducted Exploratory Data Analysis (EDA) on restaurant menu and order data. Used advanced SQL aggregations and time-series extraction to identify high-value customer segments and recommend menu optimization strategies.
-![image](2 Screenshot 2026-02-21 080609.png)
+![image](2 Restaurant Orders- SQL.png)
 
 
 #### 🚀 [Space Mission Global Trends](link-to-repo)
