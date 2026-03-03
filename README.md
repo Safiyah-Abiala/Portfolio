@@ -62,16 +62,13 @@ Designed an interactive dashboard tracking global space exploration from 1957 to
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="Abiala Safiyah Ajibola CV.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="www.linkedin.com/in/safiyah-abiala">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
-    </tr>
   </tbody>
 </table>
 
