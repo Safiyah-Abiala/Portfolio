@@ -18,7 +18,7 @@ Using SQL, Excel, and Power BI, I have successfully executed projects that solve
 
 *A glimpse of some of the projects I have worked on.*
 
-#### ☕ [Coffee Shop Sales Analysis](link-to-repo)
+#### ☕ [Coffee Shop Sales Analysis]( https://safiyah-abiala.github.io/Coffee-Shop-Sales-Portfolio/)
 **Tool:** Excel
 
 Analyzed 6 months of retail data to identify a 104% revenue growth trend. Optimized store operations by identifying peak transaction hours and top revenue-generating products.
