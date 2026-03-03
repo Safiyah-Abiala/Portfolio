@@ -66,7 +66,7 @@ Designed an interactive dashboard tracking global space exploration from 1957 to
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="www.linkedin.com/in/safiyah-abiala">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://linkedin.com/in/abialasafiyah">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
   </tbody>
