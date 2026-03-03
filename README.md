@@ -19,20 +19,22 @@ Using a combination of SQL, Excel, and Power BI, I have successfully executed pr
 
 #### ☕ [Coffee Shop Sales Analysis](link-to-repo)
 **Tool:** Excel
+
 Analyzed 6 months of retail data to identify a 104% revenue growth trend. Optimized store operations by identifying peak transaction hours (10:00 AM) and top revenue-generating products like Barista Espresso.
 ![image](1 Screenshot 2026-02-21 091627.png)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 
 #### 🍽 [Restaurant Orders Project](link-to-repo)
 **Tool:** SQL
+
 Conducted Exploratory Data Analysis (EDA) on restaurant menu and order data. Used advanced SQL aggregations and time-series extraction to identify high-value customer segments and recommend menu optimization strategies.
 ![image](2 Restaurant Orders- SQL.png)
 
 
 #### 🚀 [Space Mission Global Trends](link-to-repo)
 **Tool:** Power BI
+
 Designed an interactive dashboard tracking global space exploration from 1957 to the present. Focused on mission success rates, cost-effectiveness of launch vehicles, and the evolution of the commercial space race.
 ![image](3 Screenshot 2026-02-21 080609.png)
 
