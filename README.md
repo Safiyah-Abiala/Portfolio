@@ -62,7 +62,7 @@ Designed an interactive dashboard tracking global space exploration from 1957 to
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://Safiyah_Abiala_Data_Analyst_CV.pdf">Download my CV</a></td>
+      <td><a href="Safiyah_Abiala_Data_Analyst_CV.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
