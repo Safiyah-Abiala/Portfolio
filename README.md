@@ -35,7 +35,7 @@ Conducted Exploratory Data Analysis (EDA) on restaurant menu and order data. Use
 ![image](Restaurant Orders- SQL.png)
 
 
-### 🚀 [Space Mission Global Trends](link-to-repo)
+### 🚀 [Space Mission Global Trends]( https://safiyah-abiala.github.io/Space-mission-global-trend/)
 **Tool: Power BI**
 
 Designed an interactive dashboard tracking global space exploration from 1957 to the present. Focused on mission success rates, cost-effectiveness of launch vehicles, and the evolution of the commercial space race.
