@@ -1,0 +1,26 @@
+---
+---
+@import "{{ site.theme }}";
+
+// This shrinks the top header section
+.page-header {
+  padding: 2rem 1rem;       /* Reduces top/bottom padding significantly */
+  background-image: linear-gradient(120deg, #155799, #159957); /* Keeps the classic gradient */
+}
+
+// This shrinks the title and description inside the header
+.project-name {
+  font-size: 2.5rem;        /* Smaller title */
+  margin-top: 0;
+}
+
+.project-tagline {
+  font-size: 1.1rem;        /* Smaller subtitle */
+  margin-bottom: 1rem;
+}
+
+// This moves the "View on GitHub" buttons up so they take less space
+.btn {
+  padding: 0.5rem 1rem;
+  margin-bottom: 0.5rem;
+}
