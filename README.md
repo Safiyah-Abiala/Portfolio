@@ -1,3 +1,5 @@
+<img src="profile.png" width="200" style="border-radius:50%">
+
 <!--Section 1: Introduce your self-->
 # ABOUT ME
 
