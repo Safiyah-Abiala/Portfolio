@@ -1,4 +1,11 @@
-<img src="profile.png" width="200" style="border-radius:60%">
+<style>
+  header img {
+    max-width: 200px; /* This shrinks the photo so text has room */
+    height: auto;
+    display: block;
+    margin-bottom: 15px;
+  }
+</style>
 
 <!--Section 1: Introduce your self-->
 # ABOUT ME
