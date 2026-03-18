@@ -22,7 +22,7 @@ Using SQL, Excel, and Power BI, I have successfully executed projects that solve
 - Cleaning & Analyzing trends in Excel to find the "Why" behind the numbers.
 - Visualizing findings in Power BI to make insights accessible to stakeholders.
 
---
+---
 
 <!--Section 2: List 3-4 key projects-->
 ## **MY PROJECTS**
