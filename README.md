@@ -36,12 +36,15 @@ Analyzed 6 months of retail data to identify a 104% revenue growth trend. Optimi
 
 
 
+
 ### 🍽 [Restaurant Orders Project]( https://safiyah-abiala.github.io/Restaurant-orders-data-analysis-using-SQL/)
 **Tool: SQL**
 
 Conducted Exploratory Data Analysis (EDA) on restaurant menu and order data. Used advanced SQL aggregations and time-series extraction to identify high-value customer segments and recommend menu optimization strategies.
 
 ![image](Restaurant Orders- SQL.png)
+
+
 
 
 ### 🚀 [Space Mission Global Trends]( https://safiyah-abiala.github.io/Space-mission-global-trend/)
