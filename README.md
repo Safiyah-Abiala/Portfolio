@@ -1,4 +1,4 @@
-<img src="profile.png" width="200" style="border-radius:50%">
+<img src="profile.png" width="200" style="border-radius:60%">
 
 <!--Section 1: Introduce your self-->
 # ABOUT ME
