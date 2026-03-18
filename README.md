@@ -22,6 +22,8 @@ Using SQL, Excel, and Power BI, I have successfully executed projects that solve
 - Cleaning & Analyzing trends in Excel to find the "Why" behind the numbers.
 - Visualizing findings in Power BI to make insights accessible to stakeholders.
 
+--
+
 <!--Section 2: List 3-4 key projects-->
 ## **MY PROJECTS**
 
@@ -34,8 +36,7 @@ Analyzed 6 months of retail data to identify a 104% revenue growth trend. Optimi
 
 ![image](Screenshot 2026-02-21 091627.png)
 
-
-
+---
 
 ### 🍽 [Restaurant Orders Project]( https://safiyah-abiala.github.io/Restaurant-orders-data-analysis-using-SQL/)
 **Tool: SQL**
@@ -44,8 +45,7 @@ Conducted Exploratory Data Analysis (EDA) on restaurant menu and order data. Use
 
 ![image](Restaurant Orders- SQL.png)
 
-
-
+---
 
 ### 🚀 [Space Mission Global Trends]( https://safiyah-abiala.github.io/Space-mission-global-trend/)
 **Tool: Power BI**
@@ -54,6 +54,7 @@ Designed an interactive dashboard tracking global space exploration from 1957 to
 
 ![image](Screenshot 2026-02-21 080609.png)
 
+---
 
 ## CONTACT DETAILS
 
