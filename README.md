@@ -6,7 +6,7 @@
 Hello! I'm Abiala Safiyah, an aspiring Data Analyst driven by the challenge of turning raw, fragmented data into clear business strategies. With a background in analyzing retail, hospitality, and global industry datasets, I specialize in identifying patterns that help businesses grow and operate more efficiently.
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-## SKILLS
+## **SKILLS**
 ### Data Cleaning and Analysis
 
 Using SQL, Excel, and Power BI, I have successfully executed projects that solve real-world business problems
@@ -16,9 +16,9 @@ Using SQL, Excel, and Power BI, I have successfully executed projects that solve
 - Visualizing findings in Power BI to make insights accessible to stakeholders.
 
 <!--Section 2: List 3-4 key projects-->
-## MY PROJECTS
+## **MY PROJECTS**
 
-*A glimpse of some of the projects I have worked on.*
+**A glimpse of some of the projects I have worked on.**
 
 ### ☕ [Coffee Shop Sales Analysis]( https://safiyah-abiala.github.io/Coffee-Shop-Sales-Portfolio/)
 **Tool: Excel**
