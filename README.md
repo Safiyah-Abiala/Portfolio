@@ -19,8 +19,8 @@ Hello! I'm Abiala Safiyah, an aspiring Data Analyst driven by the challenge of t
 Using SQL, Excel, and Power BI, I have successfully executed projects that solve real-world business problems
 
 - Extracting data using complex SQL queries (Joins, Aggregations, Subqueries).
-- Cleaning & Analyzing trends in Excel to find the "Why" behind the numbers.
-- Visualizing findings in Power BI to make insights accessible to stakeholders.
+- Cleaning, transforming, and building relational star-schema data models using Excel and Power Query.
+- Writing functional DAX measures and designing interactive, insight-driven Power BI dashboards.
 
 ---
 
@@ -28,6 +28,15 @@ Using SQL, Excel, and Power BI, I have successfully executed projects that solve
 ## **MY PROJECTS**
 
 **A glimpse of some of the projects I have worked on.**
+
+### ⏳ [Tempora Sales & Marketing Analysis](https://safiyah-abiala.github.io/Tempora-sales-analysis/)
+**Tool: Power BI**
+
+Developed a multi-page interactive dashboard covering executive sales report execution, product category margins, and customer acquisition channels. Leveraged advanced DAX calculations and customized slide-out insight models to uncover a critical profit deficit driven by aggressive promotional discounting ($10.64M discount vs. $6.49M profit).
+
+![image](Overview Dashboard.png)
+
+---
 
 ### ☕ [Coffee Shop Sales Analysis]( https://safiyah-abiala.github.io/Coffee-Shop-Sales-Portfolio/)
 **Tool: Excel**
