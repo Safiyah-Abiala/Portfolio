@@ -29,7 +29,7 @@ Using SQL, Excel, and Power BI, I have successfully executed projects that solve
 
 **A glimpse of some of the projects I have worked on.**
 
-### ⏳ [Tempora Sales & Marketing Analysis](https://safiyah-abiala.github.io/Tempora-sales-analysis/)
+### ⏳ [Tempora Sales & Marketing Analysis](https://safiyah-abiala.github.io/Tempora-Sales-Analysis/)
 **Tool: Power BI**
 
 Developed a multi-page interactive dashboard covering executive sales report execution, product category margins, and customer acquisition channels. Leveraged advanced DAX calculations and customized slide-out insight models to uncover a critical profit deficit driven by aggressive promotional discounting ($10.64M discount vs. $6.49M profit).
